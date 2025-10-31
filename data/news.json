@@ -1,0 +1,73 @@
+[
+  {
+    "id": "1",
+    "title": "CAF Champions League Final: Al Ahly Clinches Historic Victory",
+    "category": "CAF Champions League",
+    "date": "2024-05-15",
+    "author": "CFN Editorial",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "excerpt": "Al Ahly secures their 11th CAF Champions League title in a thrilling final against Wydad Casablanca.",
+    "content": "In a dramatic finale at the Cairo International Stadium, Al Ahly claimed their 11th CAF Champions League trophy...",
+    "teamTags": ["Al Ahly", "Wydad Casablanca"],
+    "source": "CFN",
+    "views": 15420,
+    "likes": 892
+  },
+  {
+    "id": "2",
+    "title": "Premier League: Manchester City Extends Lead at Top",
+    "category": "English Premier League",
+    "date": "2024-05-14",
+    "author": "CFN Editorial",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "excerpt": "Pep Guardiola's side maintains their dominance with a 3-1 victory over Arsenal at the Etihad.",
+    "content": "Manchester City continues their unbeaten run this season with a commanding performance against Arsenal...",
+    "teamTags": ["Manchester City", "Arsenal"],
+    "source": "CFN",
+    "views": 18230,
+    "likes": 1024
+  },
+  {
+    "id": "3",
+    "title": "PSL Update: Orlando Pirates Win Soweto Derby",
+    "category": "Premier Soccer League",
+    "date": "2024-05-13",
+    "author": "CFN Editorial",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "excerpt": "The Buccaneers edge out rivals Kaizer Chiefs 2-1 in a heated Soweto derby showdown.",
+    "content": "Orlando Pirates delivered a stellar performance against their arch-rivals Kaizer Chiefs...",
+    "teamTags": ["Orlando Pirates", "Kaizer Chiefs"],
+    "source": "CFN",
+    "views": 12560,
+    "likes": 756
+  },
+  {
+    "id": "4",
+    "title": "UEFA Champions League: Real Madrid Advances to Semi-Finals",
+    "category": "UEFA Champions League",
+    "date": "2024-05-12",
+    "author": "CFN Editorial",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "excerpt": "Los Blancos overcome Bayern Munich in a penalty shootout thriller at the Santiago Bernabéu.",
+    "content": "Real Madrid continued their European dominance with a dramatic penalty shootout victory...",
+    "teamTags": ["Real Madrid", "Bayern Munich"],
+    "source": "CFN",
+    "views": 22100,
+    "likes": 1456
+  },
+  {
+    "id": "5",
+    "title": "LaLiga Title Race Heats Up: Barcelona vs Atletico Madrid",
+    "category": "LaLiga",
+    "date": "2024-05-11",
+    "author": "CFN Editorial",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "excerpt": "Both teams secure crucial victories as the LaLiga season reaches its climax.",
+    "content": "The Spanish top-flight is witnessing one of the most exciting title races in recent years...",
+    "teamTags": ["Barcelona", "Atletico Madrid"],
+    "source": "CFN",
+    "views": 16780,
+    "likes": 923
+  }
+]
+

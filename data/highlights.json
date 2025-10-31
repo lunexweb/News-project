@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "title": "Al Ahly's Championship Winning Goal",
+    "platform": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "duration": "2:45",
+    "date": "2024-05-15"
+  },
+  {
+    "id": "2",
+    "title": "Haaland's Hat-Trick Highlights",
+    "platform": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "duration": "3:12",
+    "date": "2024-05-14"
+  },
+  {
+    "id": "3",
+    "title": "Soweto Derby Best Moments",
+    "platform": "tiktok",
+    "embedUrl": "https://www.tiktok.com/embed/video/123456",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "duration": "1:30",
+    "date": "2024-05-13"
+  },
+  {
+    "id": "4",
+    "title": "Real Madrid Penalty Shootout Drama",
+    "platform": "youtube",
+    "embedUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "thumbnail": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800",
+    "duration": "4:20",
+    "date": "2024-05-12"
+  }
+]
+
